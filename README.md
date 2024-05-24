@@ -17,7 +17,7 @@ Voici la structure des fichiers de ce projet :
 |   `-- functions.h
 |-- handler.c
 `-- main.c
-``
+```
 
 ## 📂 Description des Fichiers
 
