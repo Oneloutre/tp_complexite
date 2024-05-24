@@ -10,13 +10,14 @@ Bienvenue dans ce projet de TP de Complexité écrit en C ! Ce projet vise à ex
 
 Voici la structure des fichiers de ce projet :
 
-
+```plaintext
 .
 |-- functions
 |   |-- functions.c
 |   `-- functions.h
 |-- handler.c
 `-- main.c
+``
 
 ## 📂 Description des Fichiers
 
